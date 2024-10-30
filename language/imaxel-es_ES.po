@@ -1,0 +1,903 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Imaxel WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-02-28 12:42+0100\n"
+"PO-Revision-Date: 2023-02-28 12:02+0000\n"
+"Last-Translator: marc sanchez <marcsanchez@imaxel.com>\n"
+"Language-Team: imaxel_ES@es (generated) <http://weblate.iws.imaxel.com/"
+"projects/wp-imaxel-woocommerce/wp-imaxel-woocommerce-locale/imaxel_ES@es/>\n"
+"Language: imaxel-es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.1.1\n"
+"X-Loco-Version: 2.5.2; wp-5.7.1\n"
+
+#: includes/Controllers/AdminController.php:56
+msgid "Imaxel projects"
+msgstr "Proyectos Imaxel"
+
+#: includes/Controllers/AdminController.php:88
+msgid "Project ID"
+msgstr "ID Proyecto"
+
+#: includes/Controllers/AdminController.php:93
+msgid "Select customer"
+msgstr "Selecciona un cliente"
+
+#: includes/Controllers/AdminController.php:104
+msgid "Filter"
+msgstr "Buscar"
+
+#: includes/Controllers/AdminController.php:113
+#: includes/Services/ProductService.php:17
+#: templates/my_account/icp_projects.php:6
+msgid "Project"
+msgstr "Proyecto"
+
+#: includes/Controllers/AdminController.php:114
+msgid "Woo Order"
+msgstr "Pedido Woo"
+
+#: includes/Controllers/AdminController.php:115
+msgid "User name"
+msgstr "Usuario"
+
+#: includes/Controllers/AdminController.php:116
+msgid "Products"
+msgstr "Productos"
+
+#: includes/Controllers/AdminController.php:117
+msgid "Price"
+msgstr "Precio"
+
+#: includes/Controllers/AdminController.php:118
+msgid "Woo Status"
+msgstr "Estado Woo"
+
+#: includes/Controllers/AdminController.php:119
+msgid "Status"
+msgstr "Estado"
+
+#: includes/Controllers/AdminController.php:120
+#: views/block_views/function_views/view/protransfer_view.php:31
+msgid "Action"
+msgstr "Accion"
+
+#: includes/Controllers/EditorController.php:40
+msgid "Error accessing to editor: "
+msgstr "Error accediendo al editor: "
+
+#: includes/Controllers/IcpController.php:61
+msgid "Accept"
+msgstr "Aceptar"
+
+#: includes/Controllers/IcpController.php:62
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: includes/Controllers/IcpController.php:63
+msgid "Save/Update successfully"
+msgstr "Guardado / actualizado correctamente"
+
+#: includes/Controllers/IcpController.php:64
+msgid "Error"
+msgstr "Error"
+
+#: includes/Controllers/IcpController.php:65
+msgid ""
+"Sorry, not found project info, browser will be reloaded. If persist error "
+"please contact with client support"
+msgstr ""
+"Lo sentimos, no se ha encontrado información del proyecto, el navegador "
+"recargarà la pàgina, si el error persiste contacto con atención al cliente."
+
+#: includes/Controllers/IcpController.php:66
+msgid "Are you sure ?"
+msgstr "¿ Estás seguro ?"
+
+#: includes/Controllers/IcpController.php:67
+msgid "If you continue, your current design will be losed"
+msgstr "Si continuas perderás tu diseño"
+
+#: includes/Controllers/IcpController.php:68
+msgid "Are you sure you want to leave?"
+msgstr "¿ Seguro que quieres salir ?"
+
+#: includes/Controllers/IcpController.php:70
+msgid "Project name"
+msgstr "Nombre del proyecto"
+
+#: includes/Controllers/IcpController.php:71
+msgid "Product project name"
+msgstr "Nombre del proyecto de producto"
+
+#: includes/Controllers/IcpController.php:73
+#: includes/Controllers/IcpPdfController.php:505 woocommerce-imaxel.php:2515
+msgid "Upload a file in order to validate it.."
+msgstr "Sube un archivo para validarlo."
+
+#: includes/Controllers/IcpController.php:74
+msgid "Too much weight. Please select another file."
+msgstr "El archivo es demasiado grande. Seleccione otro archivo."
+
+#: includes/Controllers/IcpController.php:75
+msgid "Please select a PDF file."
+msgstr "Seleccione un archivo PDF"
+
+#: includes/Controllers/IcpController.php:76
+msgid "Existing rules using this attribute"
+msgstr "Reglas existentes que usan este atributo"
+
+#: includes/Controllers/IcpController.php:77
+msgid "Existing rules detected"
+msgstr "Reglas existentes detectadas"
+
+#: includes/Controllers/IcpController.php:78
+msgid ""
+"By disabling or deleting this attribute, all rules currently using it will "
+"be modified or deleted. Please review them after doing it. Do you want to "
+"continue?"
+msgstr ""
+
+#: includes/Controllers/IcpController.php:79
+msgid ""
+"The new attribute will be added with no value to the existing rules. "
+"Remember asing them a value after doing it. Do you want to continue?"
+msgstr ""
+
+#: includes/Controllers/IcpController.php:315
+msgid "Error: project name not found"
+msgstr "Error: no se encuentra el nombre del proyecto"
+
+#: includes/Controllers/IcpController.php:316
+msgid "Error: project id not found"
+msgstr "Error: no se encontró el identificador del proyecto"
+
+#: includes/Controllers/IcpPdfController.php:33 woocommerce-imaxel.php:2100
+msgid "Upload a PDF file with the following characteristics"
+msgstr "Sube un archivo PDF con las siguientes características"
+
+#: includes/Controllers/IcpPdfController.php:36 woocommerce-imaxel.php:2103
+msgid "Max. Size"
+msgstr "Max. tamaño"
+
+#: includes/Controllers/IcpPdfController.php:222
+#: includes/Controllers/IcpPdfController.php:227
+#: includes/Controllers/IcpPdfController.php:477
+#: includes/Controllers/IcpPdfController.php:951
+#: views/block_views/function_views/view/protransfer_view.php:30
+#: woocommerce-imaxel.php:2284 woocommerce-imaxel.php:2487
+#: woocommerce-imaxel.php:2950
+msgid "Size"
+msgstr "Tamaño"
+
+#: includes/Controllers/IcpPdfController.php:228
+#: includes/Controllers/IcpPdfController.php:245
+msgid "any"
+msgstr "ninguna"
+
+#. /strong>'.$pdfResults['result']->descriptor->pages[0]->size->width.' / '.$pdfResults['result']->descriptor->pages[0]->size->height.'pt</p>';
+#: includes/Controllers/IcpPdfController.php:235
+#: includes/Controllers/IcpPdfController.php:244
+#: includes/Controllers/IcpPdfController.php:248
+#: includes/Controllers/IcpPdfController.php:461
+#: includes/Controllers/IcpPdfController.php:934
+#: includes/imaxel-icp-uploader.php:399 woocommerce-imaxel.php:2295
+#: woocommerce-imaxel.php:2305 woocommerce-imaxel.php:2462
+#: woocommerce-imaxel.php:2939
+msgid "Pages"
+msgstr "Páginas"
+
+#: includes/Controllers/IcpPdfController.php:253 woocommerce-imaxel.php:2310
+msgid "Price per page"
+msgstr "Precio por página"
+
+#: includes/Controllers/IcpPdfController.php:257 woocommerce-imaxel.php:2314
+msgid "Price per area"
+msgstr "Precio por área"
+
+#: includes/Controllers/IcpPdfController.php:275 woocommerce-imaxel.php:2332
+msgid "Select an area"
+msgstr "Seleccione un área"
+
+#: includes/Controllers/IcpPdfController.php:276 woocommerce-imaxel.php:2333
+msgid "Please, enter a correct area size"
+msgstr "Por favor, ingrese un tamaño de área correcto"
+
+#: includes/Controllers/IcpPdfController.php:278
+#: includes/Controllers/IcpPdfController.php:285 woocommerce-imaxel.php:2335
+#: woocommerce-imaxel.php:2342
+msgid "Height"
+msgstr "Altura"
+
+#: includes/Controllers/IcpPdfController.php:278
+#: includes/Controllers/IcpPdfController.php:281 woocommerce-imaxel.php:2335
+#: woocommerce-imaxel.php:2338
+msgid "min."
+msgstr "min."
+
+#: includes/Controllers/IcpPdfController.php:279
+#: includes/Controllers/IcpPdfController.php:282 woocommerce-imaxel.php:2336
+#: woocommerce-imaxel.php:2339
+msgid "max."
+msgstr "max."
+
+#: includes/Controllers/IcpPdfController.php:281
+#: includes/Controllers/IcpPdfController.php:286 woocommerce-imaxel.php:2338
+#: woocommerce-imaxel.php:2343
+msgid "Width"
+msgstr "Anchura"
+
+#: includes/Controllers/IcpPdfController.php:288 woocommerce-imaxel.php:2345
+msgid "Selected area to print"
+msgstr "Área seleccionada para imprimir"
+
+#: includes/Controllers/IcpPdfController.php:289 woocommerce-imaxel.php:2346
+msgid "Area printing price"
+msgstr "Precio de área de impresión"
+
+#: includes/Controllers/IcpPdfController.php:290 woocommerce-imaxel.php:2347
+msgid "Unitary price"
+msgstr "Precio unitario"
+
+#: includes/Controllers/IcpPdfController.php:296 woocommerce-imaxel.php:2353
+msgid "Select a PDF file"
+msgstr "Seleccione un archivo PDF"
+
+#: includes/Controllers/IcpPdfController.php:299 woocommerce-imaxel.php:2356
+msgid "Once an area is selected you will be able to upload your PDF."
+msgstr "Una vez que se haya seleccionado un área, podrá cargar su PDF."
+
+#: includes/Controllers/IcpPdfController.php:420 woocommerce-imaxel.php:2427
+msgid "Your project is currently using this PDF file:"
+msgstr "Su proyecto está utilizando actualmente este archivo PDF:"
+
+#: includes/Controllers/IcpPdfController.php:433
+#: includes/Controllers/IcpPdfController.php:931
+#: includes/imaxel-icp-uploader.php:397 woocommerce-imaxel.php:2440
+#: woocommerce-imaxel.php:2936
+msgid "File name"
+msgstr "Nombre del archivo"
+
+#: includes/Controllers/IcpPdfController.php:463
+#: includes/Controllers/IcpPdfController.php:936 woocommerce-imaxel.php:2465
+#: woocommerce-imaxel.php:2941
+msgid "Base price"
+msgstr "Precio base"
+
+#: includes/Controllers/IcpPdfController.php:464
+#: includes/Controllers/IcpPdfController.php:937 woocommerce-imaxel.php:2469
+#: woocommerce-imaxel.php:2942
+msgid "Pdf price"
+msgstr "Precio PDF"
+
+#: includes/Controllers/IcpPdfController.php:466
+#: includes/Controllers/IcpPdfController.php:939
+#: views/block_views/product_definition.php:145
+#: views/block_views/product_definition.php:217 woocommerce-imaxel.php:2473
+#: woocommerce-imaxel.php:2943
+msgid "Unit price"
+msgstr "Precio unitario"
+
+#. /strong><span id="summaryUnitPrice">'.number_format(floatval($unitPriceTotal),2).' '.get_woocommerce_currency_symbol().'</span></p>';
+#. }
+#. if( $isActiveDiscounts == 'on') {
+#: includes/Controllers/IcpPdfController.php:471
+#: includes/Controllers/IcpPdfController.php:941
+#: includes/Controllers/IcpPdfController.php:944
+#: includes/imaxel-icp-uploader.php:402 woocommerce-imaxel.php:2477
+#: woocommerce-imaxel.php:2944
+msgid "Project price"
+msgstr "Precio del proyecto"
+
+#: includes/Controllers/IcpPdfController.php:487
+#: includes/Controllers/IcpPdfController.php:914
+#: views/block_views/assets/product_definition/nextStepButton.php:28
+#: views/block_views/assets/product_definition/nextStepButton.php:37
+#: views/block_views/design.php:244 woocommerce-imaxel.php:2497
+#: woocommerce-imaxel.php:2919
+msgid "Next"
+msgstr "Siguiente"
+
+#: includes/Controllers/IcpPdfController.php:487
+#: includes/Controllers/IcpPdfController.php:914 woocommerce-imaxel.php:2497
+#: woocommerce-imaxel.php:2919
+msgid "Add To cart"
+msgstr "Añadir al carrito"
+
+#: includes/Controllers/IcpPdfController.php:775
+#: includes/imaxel-icp-uploader.php:161 woocommerce-imaxel.php:2780
+msgid "Sorry, but your PDF size and pages seems to be incorrect."
+msgstr ""
+"Lo sentimos, pero el tamaño y las páginas de su PDF parecen ser incorrectas."
+
+#: includes/Controllers/IcpPdfController.php:777
+#: includes/Controllers/IcpPdfController.php:788
+#: includes/imaxel-icp-uploader.php:163 includes/imaxel-icp-uploader.php:256
+#: woocommerce-imaxel.php:2782 woocommerce-imaxel.php:2793
+msgid "Sorry, but your PDF size seems to be incorrect."
+msgstr "Lo sentimos, pero su tamaño de PDF parece ser incorrecto."
+
+#: includes/Controllers/IcpPdfController.php:779
+#: includes/Controllers/IcpPdfController.php:784
+#: includes/imaxel-icp-uploader.php:165 includes/imaxel-icp-uploader.php:215
+#: woocommerce-imaxel.php:2784 woocommerce-imaxel.php:2789
+msgid "Sorry, but your PDF pages seems to be incorrect."
+msgstr "Lo sentimos, pero sus páginas PDF parecen ser incorrectas."
+
+#: includes/Controllers/IcpPdfController.php:891
+#: includes/imaxel-icp-uploader.php:365 woocommerce-imaxel.php:2896
+msgid "Great, your PDF has been uploaded!"
+msgstr "¡Genial, tu PDF se ha subido!"
+
+#: includes/Controllers/MyAccountController.php:161
+msgid "Are you sure you want to delete this project?"
+msgstr "¿ Estas seguro de eliminar este proyecto ?"
+
+#: includes/Controllers/MyAccountController.php:184
+#: templates/my_account/icp_projects.php:1
+msgid "Projects"
+msgstr "Proyectos"
+
+#: includes/Controllers/ProductController.php:63
+msgid "Desktop only"
+msgstr ""
+"Producto no disponible para editar desde tablet o smartphone. Por favor "
+"acceda a este producto desde un ordenador."
+
+#: includes/Controllers/ProductController.php:81
+#: includes/Controllers/ProductController.php:97
+msgid "Create now"
+msgstr "Crear ahora"
+
+#: includes/Controllers/ProductController.php:139
+msgid "Customize"
+msgstr "Personalizar"
+
+#: includes/Exceptions/ParamsNotFoundException.php:9
+#, php-format
+msgid "Parameter %s required not found"
+msgstr "No se ha encontrado el parámetro %s obligatorio"
+
+#: includes/Exceptions/ParamsNotFoundException.php:11
+msgid "Parameters required not found"
+msgstr "Parámetros requeridos no encontrados"
+
+#: includes/imaxel-icp-uploader.php:401
+msgid "Pdf Price"
+msgstr "Precio PDF"
+
+#: includes/imaxel-icp-uploader.php:409
+msgid "Continue"
+msgstr "Continuar"
+
+#: includes/Services/EditorService.php:244
+msgid "Error try create editor project"
+msgstr "Error al intentar crear el proyecto en el editor"
+
+#: includes/Services/IcpPdfService.php:15
+msgid "The uploaded file exceeds the max size directive"
+msgstr "El archivo cargado excede el tamaño máximo permitido en el formulario"
+
+#: includes/Services/IcpPdfService.php:16
+msgid "The uploaded file exceeds the max size form directive"
+msgstr "El archivo cargado excede el tamaño máximo permitido en el formulario"
+
+#: includes/Services/IcpPdfService.php:17
+msgid "The uploaded file was only partially uploaded."
+msgstr "El archivo cargado solo se cargó parcialmente."
+
+#: includes/Services/IcpPdfService.php:18
+msgid "No file was uploaded."
+msgstr "No se ha subido ningún archivo"
+
+#: includes/Services/IcpPdfService.php:19
+msgid "Missing a temporary folder."
+msgstr "No se encuentra la carpeta temporal de archivos."
+
+#: includes/Services/IcpPdfService.php:20
+msgid "Failed to write file to disk"
+msgstr "No se guardar el archivo en el disco, revise permisos"
+
+#: includes/Services/IcpPdfService.php:21
+msgid "Code extension not suported"
+msgstr "El sistema no tiene la librería necesaria para este control"
+
+#: includes/Services/IcpPdfService.php:22
+msgid "Default error uploading file"
+msgstr "Error general al intentar cargar el archivo"
+
+#: includes/Services/OrderService.php:386
+msgid "Invalid credentials"
+msgstr "Credenciales no válidas"
+
+#: node_modules/grunt-pot/test/fixtures/some-file.php:3
+msgid "I'm a translatable string."
+msgstr ""
+
+#: node_modules/grunt-pot/test/fixtures/some-other-file.php:4
+msgid "Me too"
+msgstr ""
+
+#: node_modules/grunt-pot/test/fixtures/some-other-file.php:7
+#, php-format
+msgid "I have %d apple"
+msgid_plural "I have %d apples"
+msgstr[0] ""
+msgstr[1] ""
+
+#. / TRANSLATORS: This should be translated as a shorthand for YEAR-MONTH-DAY using 4, 2 and 2 digits.
+#: node_modules/grunt-pot/test/fixtures/some-other-file.php:16
+msgid "yyyy-mm-dd"
+msgstr "yyyy-mm-dd"
+
+#: templates/my_account/icp_projects.php:7
+msgid "Last Update"
+msgstr "Última actualización"
+
+#: templates/my_account/icp_projects.php:8
+msgid "Order"
+msgstr "Pedido"
+
+#: templates/my_account/icp_projects.php:9
+msgid "Product"
+msgstr "Producto"
+
+#: templates/my_account/icp_projects.php:10
+msgid "Actions"
+msgstr "Acciones"
+
+#: templates/steps/editors/partials/item_editor_link.php:39
+msgid "From"
+msgstr "Desde"
+
+#: templates/steps/icp_title_block.php:24
+msgid "Save and name"
+msgstr "Guardar y asignar nombre"
+
+#: views/block_models/product_definition_model.php:326
+msgid "Select an option"
+msgstr "Seleccione una opción"
+
+#: views/block_views/assets/product_definition/nextStepButton.php:16
+msgid "Choose image"
+msgstr "Elegir imagen"
+
+#: views/block_views/assets/product_definition/nextStepButton.php:21
+msgid "This product does not have any gallery"
+msgstr "Este producto no tiene galería"
+
+#: views/block_views/assets/product_definition/nextStepButton.php:30
+#: views/block_views/assets/product_definition/nextStepButton.php:39
+msgid "Add to Cart"
+msgstr "Añadir al carrito"
+
+#: views/block_views/assets/product_definition/nextStepButton.php:44
+msgid ""
+"If you modify the options of your project the current design will be lost."
+msgstr ""
+"Si modifica las opciones de tu proyecto el diseño actual será eliminado"
+
+#: views/block_views/design.php:57
+msgid "Upload a PDf file"
+msgstr "Cargar un archivo PDf"
+
+#: views/block_views/design.php:68 views/block_views/design.php:335
+msgid "Create new design"
+msgstr "Crear nuevo diseño"
+
+#: views/block_views/design.php:107
+msgid "Sorry, this project no longer exists. Please create a new one."
+msgstr "Lo sentimos, este proyecto ya no existe. Crea uno nuevo."
+
+#: views/block_views/design.php:117
+msgid ""
+"Editor changes were not saved. Please, create the design again and finish "
+"the edition by clicking on the top-right button."
+msgstr ""
+"Los cambios del editor no se guardaron. Por favor, vuelve a crear el diseño "
+"y finaliza la edición haciendo clic en el botón superior derecho."
+
+#: views/block_views/design.php:245
+msgid "End design"
+msgstr "Finalizar diseño"
+
+#: views/block_views/design.php:290
+#, php-format
+msgid "Your custom design has been created using a %s template."
+msgstr "Su diseño ha sido creado usando una plantilla %s."
+
+#. //sample of used images
+#. $revertArray = array_reverse($projectInfo->collection->files);
+#. for ($i = 0; $i < 3; $i++) {
+#. if (isset($revertArray[$i])) {
+#. echo '<img src="' . $revertArray[$i]->t_url . '">';
+#. }
+#. }
+#.
+#: views/block_views/design.php:304
+#, php-format
+msgid "This project has an online design based on \"%s\" template"
+msgstr "Este proyecto tiene un diseño basado en la plantilla \"%s\""
+
+#: views/block_views/design.php:308
+msgid "What do you want to do?"
+msgstr "¿Qué quieres hacer?"
+
+#: views/block_views/design.php:328
+msgid "Edit your current design"
+msgstr "Edita tu diseño actual"
+
+#: views/block_views/design.php:385
+msgid "No configured functions for this step."
+msgstr "No hay funciones configuradas para este paso."
+
+#: views/block_views/function_views/editor_link_view.php:193
+msgid "Not allowed templates for this product."
+msgstr "Plantillas no permitidas para este producto."
+
+#: views/block_views/function_views/editor_link_view.php:196
+msgid "No products found with this variations codes in this dealer."
+msgstr ""
+"No se encontraron productos con estos códigos de variaciones para este "
+"distribuidor."
+
+#: views/block_views/function_views/view/protransfer_view.php:18
+msgid "Select your files"
+msgstr "Seleccione sus archivos"
+
+#: views/block_views/function_views/view/protransfer_view.php:29
+msgid "Name"
+msgstr "Nombre"
+
+#: views/block_views/function_views/view/protransfer_view.php:34
+msgid "Remove"
+msgstr "Eliminar"
+
+#: views/block_views/function_views/view/protransfer_view.php:53
+msgid "Add more files"
+msgstr "Agrega mas archivos"
+
+#: views/block_views/product_definition.php:20
+msgid "Exit"
+msgstr "Salir"
+
+#: views/block_views/product_definition.php:20
+msgid "Back"
+msgstr "Volver"
+
+#: views/block_views/product_definition.php:36
+#: views/block_views/product_definition.php:76
+msgid "Features"
+msgstr "Características"
+
+#: views/block_views/product_definition.php:120
+#: views/block_views/product_definition.php:192
+msgid "days"
+msgstr "días"
+
+#: views/block_views/product_definition.php:126
+#: views/block_views/product_definition.php:132
+#: views/block_views/product_definition.php:198
+#: views/block_views/product_definition.php:204
+msgid "Quantity"
+msgstr "Cantidad"
+
+#: views/block_views/product_definition.php:160
+#: views/block_views/product_definition.php:233
+msgid "Total price"
+msgstr "Precio total"
+
+#: views/product_view.php:75
+msgid "Sorry but your are not allowed to be here!"
+msgstr "Lo sentimos, pero no puedes estar aquí!"
+
+#: woocommerce-imaxel.php:399
+msgid "Imaxel reprocess order"
+msgstr "Imaxel reprocesar pedido"
+
+#: woocommerce-imaxel.php:433
+msgid "Cantidad de copias"
+msgstr "Cantidad de copias"
+
+#: woocommerce-imaxel.php:442 woocommerce-imaxel.php:801
+msgid "Imaxel Services"
+msgstr "Imaxel Services"
+
+#: woocommerce-imaxel.php:444 woocommerce-imaxel.php:458
+#: woocommerce-imaxel.php:806
+msgid "Imaxel Printspot"
+msgstr "Imaxel Printspot"
+
+#: woocommerce-imaxel.php:460
+msgid ""
+"If you don't have a Imaxel Printspot account and are interested in enabling "
+"this section, please contact us at support@imaxel.com"
+msgstr ""
+"Si no tienes una cuenta de Imaxel Printspot y estas interesado en activar "
+"esta sección, contacta con soporte@imaxel.com"
+
+#: woocommerce-imaxel.php:498
+msgid ""
+"Operation aborted: Making this request exhausts your server's memory. Your "
+"server cannot handle this call."
+msgstr ""
+"Operación abortada: Hacer esta solicitud agota la memoria de su servidor. Su "
+"servidor no puede gestionar esta llamada."
+
+#: woocommerce-imaxel.php:587 woocommerce-imaxel.php:593
+msgid ""
+"The operation has not been completed successfully. Please try again in a few "
+"minutes."
+msgstr ""
+"La operación no se ha completado con éxito. Vuelva a intentarlo en unos "
+"minutos."
+
+#: woocommerce-imaxel.php:634
+msgid "Configuration"
+msgstr "Configuración"
+
+#: woocommerce-imaxel.php:640 woocommerce-imaxel.php:713
+msgid "Public key"
+msgstr "Clave pública"
+
+#: woocommerce-imaxel.php:643 woocommerce-imaxel.php:716
+msgid "Introduce Public key supplied by Imaxel"
+msgstr "Introduce la clave publica suministrada por Imaxel"
+
+#: woocommerce-imaxel.php:647 woocommerce-imaxel.php:720
+msgid "Private key"
+msgstr "Clave privada"
+
+#: woocommerce-imaxel.php:650 woocommerce-imaxel.php:723
+msgid "Introduce Private key supplied by Imaxel"
+msgstr "introduce clave privada"
+
+#: woocommerce-imaxel.php:654
+msgid "Activate automatic production"
+msgstr "Activar producción automática"
+
+#: woocommerce-imaxel.php:659
+msgid "Allow guest mode"
+msgstr "Permitir invitados"
+
+#: woocommerce-imaxel.php:664
+msgid "Show create button in shop page"
+msgstr "Mostrar botón de crear producto en la página de la tienda"
+
+#: woocommerce-imaxel.php:673
+msgid "Advanced configuration"
+msgstr "Configuración avanzada"
+
+#: woocommerce-imaxel.php:679
+msgid "Don't override product price"
+msgstr ""
+"Usar el precio del producto de Woocommerce (no usar el precio del producto "
+"del editor)"
+
+#: woocommerce-imaxel.php:684
+msgid "Override product description"
+msgstr ""
+"Usar el nombre del producto del editor en el carrito (desmarcar esta opción "
+"para utilizar el nombre del producto de Woocommerce)"
+
+#: woocommerce-imaxel.php:700
+msgid "ICP API Conection"
+msgstr "ICP API Conexión"
+
+#: woocommerce-imaxel.php:702
+msgid ""
+"Enter the endpoint, public key and private key and save changes to "
+"sincronize your woocommerce with your ICP products."
+msgstr ""
+"Introduce el endpoint, clave pública y clave privada. Guarda los cambios "
+"para sincronizar woocommerce con tus productos ICP."
+
+#: woocommerce-imaxel.php:706
+msgid "Endpoint"
+msgstr "Endpoint"
+
+#: woocommerce-imaxel.php:709
+msgid "Introduce the address of your printspot account (no https://)"
+msgstr "Introduce la dirección de tu cuenta printspot (sin https://)"
+
+#: woocommerce-imaxel.php:727
+msgid "Theme Color"
+msgstr "Color de tema"
+
+#: woocommerce-imaxel.php:730
+msgid ""
+"Introduce the hexadecimal color code to user on your plugin interface (ex: "
+"#010101)"
+msgstr ""
+"Introduce el color hexadecimal para utilizar en la interfaz como color "
+"primario (ej: #010101)"
+
+#: woocommerce-imaxel.php:734
+msgid "Secondary Theme Color"
+msgstr "Color de tema secundario"
+
+#: woocommerce-imaxel.php:737
+msgid ""
+"Introduce the hexadecimal color code to user on your plugin interface as "
+"secondary color (ex: #010101)"
+msgstr ""
+"Introduce el color hexadecimal para utilizar en la interfaz como color "
+"secundario (ej: #010101)"
+
+#: woocommerce-imaxel.php:817 woocommerce-imaxel.php:993
+msgid "None"
+msgstr "Ninguno"
+
+#: woocommerce-imaxel.php:840
+msgid "All variants"
+msgstr "Todas las variantes"
+
+#: woocommerce-imaxel.php:867 woocommerce-imaxel.php:955
+msgid "Filter products"
+msgstr "Filtrar productos"
+
+#: woocommerce-imaxel.php:877 woocommerce-imaxel.php:1009
+msgid "Select one product"
+msgstr "Selecciona un producto"
+
+#: woocommerce-imaxel.php:888 woocommerce-imaxel.php:1020
+msgid "Select one variant"
+msgstr "Seleccione una variante"
+
+#: woocommerce-imaxel.php:964
+msgid "Select a product"
+msgstr "Seleccione un producto"
+
+#: woocommerce-imaxel.php:1213 woocommerce-imaxel.php:1224
+msgid "Edit"
+msgstr "Editar"
+
+#: woocommerce-imaxel.php:1305
+msgid "Operation aborted: You tried to add a non-existent project to the cart."
+msgstr ""
+"Operación abortada: Intentó agregar un proyecto inexistente al carrito."
+
+#: woocommerce-imaxel.php:1877
+msgid "Please select a valid product."
+msgstr "Por favor seleccione un producto válido."
+
+#: woocommerce-imaxel.php:2873
+msgid "Your validation has failed"
+msgstr "La validación ha fallado"
+
+#: woocommerce-imaxel.php:3127
+msgid "Product definition"
+msgstr "Definicion de Producto"
+
+#~ msgid "Configuration_info_message"
+#~ msgstr ""
+#~ "Introduce tus credenciales de usuario para conectar tu web con tu cuenta "
+#~ "de Imaxel y obtener tus propios diseños y plantillas. Si todavía no "
+#~ "tienes una cuenta contacta con https://imaxel.com"
+
+#~ msgid "Configuration_update_products"
+#~ msgstr "Sincronizar cuentas"
+
+#~ msgid "ID"
+#~ msgstr "ID"
+
+#~ msgid "Public Key"
+#~ msgstr "Clave pública"
+
+#~ msgid "Private Key"
+#~ msgstr "Clave privada"
+
+#, fuzzy
+#~ msgid "OAuth Public Key"
+#~ msgstr "Clave pública"
+
+#, fuzzy
+#~ msgid "OAuth Private Key"
+#~ msgstr "OAuth Clave primaria"
+
+#~ msgid "ICP URL"
+#~ msgstr "ICP URL"
+
+#~ msgid "Info"
+#~ msgstr "Información"
+
+#~ msgid "Info_info_message"
+#~ msgstr ""
+#~ "Gracias por instalar Imaxel WooCommerce, el plugin con el que "
+#~ "transformarás tu tienda online en una completa plataforma de "
+#~ "personalización de productos fotográficos!\n"
+#~ "<br><br>\n"
+#~ "Con el tus clientes podrán, entre otras muchas cosas, crear foto-álbumes, "
+#~ "subir sus fotos para revelar, crear productos de decoración como lienzos "
+#~ "o metacrilatos, personalizar objetos (camisetas, tazas, imanes, etc) y "
+#~ "crear productos de imprenta como tarjetas de visita o folletos.\n"
+#~ "<br><br>\n"
+#~ "Para verlo en acción solamente tienes que vincular alguno de tus "
+#~ "productos con alguna de las plantillas personalizables que hemos puesto a "
+#~ "tu disposición en la sección “Productos”. Una vez lo hayas hecho, accede "
+#~ "a la página de producto, pulsa sobre el botón “Crear ahora” y verás lo "
+#~ "que ocurre! \n"
+#~ "<br><br>\n"
+#~ "Las plantillas y diseños que aquí encontrarás son solo una muestra de "
+#~ "todo lo que puedes llegar a hacer con la plataforma de personalización de "
+#~ "Imaxel.\n"
+#~ "<br><br>\n"
+#~ "Pruébalo, construye un sitio increíble, y si quieres poder descargar los "
+#~ "archivos de impresión que se generen con los pedidos de forma automática "
+#~ "o crear tus propios diseños y plantillas no dudes en contactar con "
+#~ "nosotros!"
+
+#~ msgid "Info_info_action"
+#~ msgstr "¡Consigue tu licencia!"
+
+#~ msgid "Logs"
+#~ msgstr "Logs"
+
+#~ msgid "Logs_info_message"
+#~ msgstr ""
+#~ "En esta sección puede consultar los ultimos logs generados por el plugin"
+
+#~ msgid "Date"
+#~ msgstr "Fecha"
+
+#~ msgid "Message"
+#~ msgstr "Mensaje"
+
+#~ msgid "Orders"
+#~ msgstr "Pedidos"
+
+#~ msgid "Orders_info_message"
+#~ msgstr "En esta sección puede consultar los pedidos generados en su tienda"
+
+#~ msgid "Imaxel ID"
+#~ msgstr "Imaxel ID"
+
+#~ msgid "Customer"
+#~ msgstr "Cliente"
+
+#~ msgid "Items"
+#~ msgstr "Artículos"
+
+#~ msgid "Products_info_message"
+#~ msgstr "En esta sección puede gestionar la configuración de sus productos"
+
+#~ msgid "Products_save_products"
+#~ msgstr "Actualizar configuración de productos"
+
+#, fuzzy
+#~ msgid "Imaxel Template"
+#~ msgstr "Producto Imaxel"
+
+#~ msgid "Imaxel ICP Product"
+#~ msgstr "Producto ICP Imaxel"
+
+#~ msgid "No product"
+#~ msgstr "Sin producto"
+
+#, fuzzy
+#~ msgid "imaxel-custom-products"
+#~ msgstr "Producto Imaxel"
+
+#~ msgid "Editar"
+#~ msgstr "Editar"
+
+#~ msgid "OAuth Secondary Key"
+#~ msgstr "OAuth Clave secundaria"
+
+#~ msgid ""
+#~ "A wordpress plugin to integrate imaxel with woocommerce and wordpress."
+#~ msgstr ""
+#~ "A wordpress plugin to integrate imaxel with woocommerce and wordpress."
+
+#~ msgid "http://www.imaxel.com"
+#~ msgstr "http://www.imaxel.com"
+
+#~ msgid "Imaxel WooCommerce"
+#~ msgstr "Imaxel WooCommerce"
+
+#~ msgid "Update products"
+#~ msgstr "Actualizar productos"

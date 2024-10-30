@@ -1,0 +1,57 @@
+/* Creative products styles */
+.spinner-imaxel{
+	position:relative !important;
+}
+
+.imx-loader {
+	border: 16px solid #f3f3f3;
+	border-radius: 50%;
+	border-top: 16px solid #3498db;
+	width: 60px;
+	height: 60px;
+	-webkit-animation: spin 1s linear infinite;
+	animation: spin 1s linear infinite;
+}
+
+.imx-loader-2{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+@-webkit-keyframes spin {
+	0% { -webkit-transform: rotate(0deg); }
+	100% { -webkit-transform: rotate(360deg); }
+}
+
+@keyframes spin {
+	0% { transform: rotate(0deg); }
+	100% { transform: rotate(360deg); }
+}
+
+.product.has-default-attributes.has-children > .images{opacity:1 !important;}
+
+#btnImaxelUpdateProducts{
+	display: none;
+}
+
+/*#4883*/
+.crear_ahora_wrapper{
+	border-bottom: 1px solid rgb(218, 218, 218) !important;
+	padding-bottom: 27px;
+	margin-top: 15px;
+	margin-bottom: 3px;
+}
+
+.product_meta {
+	border: 0px !important;
+}
+
+/*#5369*/
+#divImaxelProjects {
+	margin-top: 15px;
+}
+
+/*=====================================================ORDER RECIVED====================================================*/
+.woocommerce-order .wc-item-meta {
+	display:none;
+}
